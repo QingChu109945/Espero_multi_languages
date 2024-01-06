@@ -1,0 +1,169 @@
+filename	sentence_id	sentence	hd_sum	dependent_relations	MHD_2017
+2014_GuoDali_WangYanan_CN_03_stanza_nopunct.txt	1	这种商业有的是以原生产物与制造品直接交换有的是以货币或纸币作媒介交换	80	22	3.6363636363636362
+Level 1: 1 nodes - 15
+Level 2: 4 nodes - 3	5	14	20
+Level 3: 5 nodes - 2	4	13	17	22
+Level 4: 6 nodes - 1	8	12	16	19	21
+Level 5: 4 nodes - 6	7	11	18
+Level 6: 2 nodes - 9	10
+Max nodes: Level 4 - 6 nodes
+Max depth: 6
+2014_GuoDali_WangYanan_CN_03_stanza_nopunct.txt	2	农村以生活资料及制造材料供给都市都市则以一部分制造品供给农村居民	69	19	3.6315789473684212
+Level 1: 1 nodes - 2
+Level 2: 3 nodes - 1	8	12
+Level 3: 5 nodes - 4	9	10	11	17
+Level 4: 4 nodes - 3	7	16	19
+Level 5: 5 nodes - 5	6	14	15	18
+Level 6: 1 nodes - 13
+Max nodes: Level 3 - 5 nodes
+Max depth: 6
+2014_GuoDali_WangYanan_CN_03_stanza_nopunct.txt	3	不再生产亦不能再生产生活资料的都市其全部财富和全部生活资料都可说是得自农村	76	23	3.3043478260869565
+Level 1: 1 nodes - 10
+Level 2: 3 nodes - 2	6	20
+Level 3: 10 nodes - 1	3	4	5	8	9	13	18	19	21
+Level 4: 6 nodes - 7	11	12	17	22	23
+Level 5: 3 nodes - 14	15	16
+Max nodes: Level 3 - 10 nodes
+Max depth: 5
+2014_GuoDali_WangYanan_CN_03_stanza_nopunct.txt	4	但我们不要根据这点就说都市的利得即是农村的损失	44	16	2.75
+Level 1: 1 nodes - 8
+Level 2: 6 nodes - 1	2	3	6	7	16
+Level 3: 6 nodes - 4	5	11	12	13	14
+Level 4: 2 nodes - 9	15
+Level 5: 1 nodes - 10
+Max nodes: Level 2 - 6 nodes
+Max depth: 5
+2014_GuoDali_WangYanan_CN_03_stanza_nopunct.txt	5	他们有相互的利害关系	15	6	2.5
+Level 1: 1 nodes - 2
+Level 2: 2 nodes - 1	6
+Level 3: 2 nodes - 3	5
+Level 4: 1 nodes - 4
+Max nodes: Level 2 - 2 nodes
+Max depth: 4
+2014_GuoDali_WangYanan_CN_03_stanza_nopunct.txt	6	这里分工的结果象其他方面的分工一样对双方从事各种职业的居民都有利益	73	20	3.65
+Level 1: 1 nodes - 10
+Level 2: 3 nodes - 4	9	19
+Level 3: 5 nodes - 1	2	7	14	20
+Level 4: 6 nodes - 3	5	6	8	13	18
+Level 5: 3 nodes - 11	12	16
+Level 6: 2 nodes - 15	17
+Max nodes: Level 4 - 6 nodes
+Max depth: 6
+2014_GuoDali_WangYanan_CN_03_stanza_nopunct.txt	7	农村居民与其亲自劳动来制造他们需要的制造品无宁作这种交换因为由这种交换他们可用较小量的自身劳动生产物购得较大量的制造品	144	38	3.789473684210526
+Level 1: 1 nodes - 8
+Level 2: 6 nodes - 2	6	7	13	15	25
+Level 3: 10 nodes - 1	4	5	10	12	14	18	23	24	33
+Level 4: 8 nodes - 3	9	11	17	20	22	32	38
+Level 5: 9 nodes - 16	19	21	27	29	30	31	35	37
+Level 6: 4 nodes - 26	28	34	36
+Max nodes: Level 3 - 10 nodes
+Max depth: 6
+2014_GuoDali_WangYanan_CN_03_stanza_nopunct.txt	8	都市是农村剩余产物的市场农民用不了的东西就拿到都市去交换他们需要的物品	67	21	3.1904761904761907
+Level 1: 1 nodes - 7
+Level 2: 4 nodes - 1	2	5	17
+Level 3: 8 nodes - 3	4	6	9	13	14	16	21
+Level 4: 6 nodes - 8	10	11	12	15	19
+Level 5: 2 nodes - 18	20
+Max nodes: Level 3 - 8 nodes
+Max depth: 5
+2014_GuoDali_WangYanan_CN_03_stanza_nopunct.txt	9	都市的居民愈多其居民的收入愈大农村剩余产物的市场愈广阔	58	17	3.411764705882353
+Level 1: 1 nodes - 5
+Level 2: 4 nodes - 3	4	10	17
+Level 3: 4 nodes - 1	9	15	16
+Level 4: 3 nodes - 2	7	13
+Level 5: 5 nodes - 6	8	11	12	14
+Max nodes: Level 5 - 5 nodes
+Max depth: 5
+2014_GuoDali_WangYanan_CN_03_stanza_nopunct.txt	10	这种市场愈广阔对广大人民愈有利	25	10	2.5
+Level 1: 1 nodes - 10
+Level 2: 4 nodes - 3	5	8	9
+Level 3: 4 nodes - 2	4	6	7
+Level 4: 1 nodes - 1
+Max nodes: Level 2 - 4 nodes
+Max depth: 4
+2014_GuoDali_WangYanan_CN_03_stanza_nopunct.txt	11	在离都市一哩生产的谷物与在离都市二十哩生产的谷物在市上的售价都一样	92	23	4.0
+Level 1: 1 nodes - 23
+Level 2: 5 nodes - 1	17	18	21	22
+Level 3: 4 nodes - 8	9	15	19
+Level 4: 4 nodes - 6	10	16	20
+Level 5: 3 nodes - 5	7	14
+Level 6: 4 nodes - 3	4	12	13
+Level 7: 2 nodes - 2	11
+Max nodes: Level 2 - 5 nodes
+Max depth: 7
+2014_GuoDali_WangYanan_CN_03_stanza_nopunct.txt	12	但后者所得的售价一般地说不但要补偿其生产费用和上市费用而且要对农业家提供农业的普通利润	92	28	3.2857142857142856
+Level 1: 1 nodes - 24
+Level 2: 6 nodes - 9	12	19	20	23	28
+Level 3: 10 nodes - 1	6	7	10	11	15	21	22	25	27
+Level 4: 6 nodes - 4	8	13	14	18	26
+Level 5: 5 nodes - 2	3	5	16	17
+Max nodes: Level 3 - 10 nodes
+Max depth: 5
+2014_GuoDali_WangYanan_CN_03_stanza_nopunct.txt	13	所以都市附近的农业家和耕作者从谷物售价所得的不仅是农业的普通利润而且包括自远地运来出售的谷物的运费全部价值	114	34	3.3529411764705883
+Level 1: 1 nodes - 23
+Level 2: 6 nodes - 1	6	14	21	22	34
+Level 3: 13 nodes - 3	5	9	12	13	15	16	17	18	20	26	32	33
+Level 4: 10 nodes - 2	4	7	8	10	11	19	25	30	31
+Level 5: 2 nodes - 24	28
+Level 6: 2 nodes - 27	29
+Max nodes: Level 3 - 13 nodes
+Max depth: 6
+2014_GuoDali_WangYanan_CN_03_stanza_nopunct.txt	14	此外在他们购买的东西的买价上他们还节省这些东西的远途运费的全部价值	66	20	3.3
+Level 1: 1 nodes - 12
+Level 2: 5 nodes - 1	8	10	11	20
+Level 3: 5 nodes - 2	6	9	17	19
+Level 4: 5 nodes - 4	7	14	16	18
+Level 5: 4 nodes - 3	5	13	15
+Max nodes: Level 2 - 5 nodes
+Max depth: 5
+2014_GuoDali_WangYanan_CN_03_stanza_nopunct.txt	15	试一比较都市附近各农村和远离都市各农村的耕作事业你就知道都市商业是怎样有利于农村	87	24	3.625
+Level 1: 1 nodes - 17
+Level 2: 4 nodes - 14	15	16	20
+Level 3: 5 nodes - 4	6	13	19	22
+Level 4: 9 nodes - 1	2	3	5	8	18	21	23	24
+Level 5: 3 nodes - 7	11	12
+Level 6: 2 nodes - 9	10
+Max nodes: Level 4 - 9 nodes
+Max depth: 6
+2014_GuoDali_WangYanan_CN_03_stanza_nopunct.txt	16	就连所有宣传贸易差额的各种谬说也没有一种敢妄说城乡通商对城市或对乡村有损的	95	25	3.8
+Level 1: 1 nodes - 12
+Level 2: 4 nodes - 1	10	11	15
+Level 3: 5 nodes - 6	8	9	14	16
+Level 4: 8 nodes - 2	3	4	5	7	13	24	25
+Level 5: 3 nodes - 18	20	23
+Level 6: 4 nodes - 17	19	21	22
+Max nodes: Level 4 - 8 nodes
+Max depth: 6
+2014_GuoDali_WangYanan_CN_03_stanza_nopunct.txt	17	按照事物的本性生活资料必先于便利品和奢侈品所以生产前者的产业亦必先于生产后者的产业	86	27	3.185185185185185
+Level 1: 1 nodes - 8
+Level 2: 6 nodes - 4	6	7	9	11	22
+Level 3: 11 nodes - 1	2	5	10	14	15	19	20	21	23	27
+Level 4: 5 nodes - 3	12	13	16	24
+Level 5: 4 nodes - 17	18	25	26
+Max nodes: Level 3 - 11 nodes
+Max depth: 5
+2014_GuoDali_WangYanan_CN_03_stanza_nopunct.txt	18	提供生活资料的农村的耕种和改良必先于只提供奢侈品和便利品的都市的增加	95	23	4.130434782608695
+Level 1: 1 nodes - 11
+Level 2: 4 nodes - 7	10	12	14
+Level 3: 4 nodes - 5	9	13	23
+Level 4: 4 nodes - 1	6	8	21
+Level 5: 4 nodes - 3	4	16	22
+Level 6: 4 nodes - 2	15	19	20
+Level 7: 2 nodes - 17	18
+Max nodes: Level 2 - 4 nodes
+Max depth: 7
+2014_GuoDali_WangYanan_CN_03_stanza_nopunct.txt	19	乡村居民须先维持自己才只剩余产物维持都市的居民	35	14	2.5
+Level 1: 1 nodes - 11
+Level 2: 6 nodes - 2	5	7	8	9	14
+Level 3: 6 nodes - 1	3	4	6	10	12
+Level 4: 1 nodes - 13
+Max nodes: Level 2 - 6 nodes
+Max depth: 4
+2014_GuoDali_WangYanan_CN_03_stanza_nopunct.txt	20	所以要先增加农村产物的剩余才谈得上增设都市	37	13	2.8461538461538463
+Level 1: 1 nodes - 12
+Level 2: 5 nodes - 1	4	9	10	13
+Level 3: 4 nodes - 2	3	8	11
+Level 4: 1 nodes - 6
+Level 5: 2 nodes - 5	7
+Max nodes: Level 2 - 5 nodes
+Max depth: 5

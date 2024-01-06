@@ -1,0 +1,176 @@
+filename	sentence_id	sentence	hd_sum	dependent_relations	SSCV	mhd_2016_sentence
+2014_GuoDali_WangYanan_CN_02_stanza_nopunct.txt	1	人人都力图依靠自己的劳动来满足自身随时发生的需要	32	15	2.1333333333333333	2.2857142857142856
+Level 0: 1 nodes - 4
+Level 1: 4 nodes - 2	3	8	10
+Level 2: 5 nodes - 1	5	6	9	15
+Level 3: 2 nodes - 7	13
+Level 4: 3 nodes - 11	12	14
+Max nodes: Level 2 - 5 nodes
+Max depth: 4
+2014_GuoDali_WangYanan_CN_02_stanza_nopunct.txt	2	饿了便到森林去打猎衣服坏了便剥兽类的皮革来穿房屋破了便就近伐取树枝草皮尽其所能加以修茸	81	31	2.6129032258064515	2.7
+Level 0: 1 nodes - 29
+Level 1: 5 nodes - 16	18	23	26	31
+Level 2: 11 nodes - 9	15	17	19	20	21	22	25	27	28	30
+Level 3: 5 nodes - 6	8	10	11	24
+Level 4: 6 nodes - 1	3	4	7	13	14
+Level 5: 3 nodes - 2	5	12
+Max nodes: Level 2 - 11 nodes
+Max depth: 5
+2014_GuoDali_WangYanan_CN_02_stanza_nopunct.txt	3	在彻底实行分工之后一人自己劳动的产物便仅能满足自身随时发生的需要的极小部分	56	24	2.3333333333333335	2.4347826086956523
+Level 0: 1 nodes - 15
+Level 1: 6 nodes - 3	11	12	13	14	24
+Level 2: 7 nodes - 1	2	4	5	9	20	23
+Level 3: 5 nodes - 8	10	18	21	22
+Level 4: 4 nodes - 7	16	17	19
+Level 5: 1 nodes - 6
+Max nodes: Level 2 - 7 nodes
+Max depth: 5
+2014_GuoDali_WangYanan_CN_02_stanza_nopunct.txt	4	其他大部分需要必得仰赖他人劳动的产物来供给	28	12	2.3333333333333335	2.5454545454545454
+Level 0: 1 nodes - 4
+Level 1: 2 nodes - 3	12
+Level 2: 4 nodes - 1	2	6	11
+Level 3: 3 nodes - 5	9	10
+Level 4: 1 nodes - 8
+Level 5: 1 nodes - 7
+Max nodes: Level 2 - 4 nodes
+Max depth: 5
+2014_GuoDali_WangYanan_CN_02_stanza_nopunct.txt	5	这种产物必由购买而得	10	8	1.25	1.4285714285714286
+Level 0: 1 nodes - 8
+Level 1: 5 nodes - 3	4	5	6	7
+Level 2: 1 nodes - 2
+Level 3: 1 nodes - 1
+Max nodes: Level 1 - 5 nodes
+Max depth: 3
+2014_GuoDali_WangYanan_CN_02_stanza_nopunct.txt	6	购买的手段即是他自己的产物或者说他自己产物的价格	32	16	2.0	2.1333333333333333
+Level 0: 1 nodes - 9
+Level 1: 6 nodes - 3	4	5	6	7	11
+Level 2: 4 nodes - 1	8	10	16
+Level 3: 2 nodes - 2	14
+Level 4: 3 nodes - 12	13	15
+Max nodes: Level 1 - 6 nodes
+Max depth: 4
+2014_GuoDali_WangYanan_CN_02_stanza_nopunct.txt	7	但在购买以前不仅自己劳动的产物要已经作成还要已经卖掉所以至少在这两件事情能够办到以前必须先在某个地方储有各色各样的货物足以维持他的生活并提供材料和工具供他使用	171	49	3.489795918367347	3.5625
+Level 0: 1 nodes - 16
+Level 1: 7 nodes - 1	3	12	13	14	15	47
+Level 2: 9 nodes - 2	4	5	9	10	11	43	44	49
+Level 3: 6 nodes - 7	32	38	42	46	48
+Level 4: 11 nodes - 6	8	17	25	27	28	29	36	37	41	45
+Level 5: 8 nodes - 18	23	24	26	31	33	34	39
+Level 6: 5 nodes - 19	22	30	35	40
+Level 7: 2 nodes - 20	21
+Max nodes: Level 4 - 11 nodes
+Max depth: 7
+2014_GuoDali_WangYanan_CN_02_stanza_nopunct.txt	8	例如织匠在织物尚未作成尚未卖掉以前要不是在自己手中或他人手中有所蓄积足以维持他的生活并给他提供材料和工具他就织不出任何东西	150	41	3.658536585365854	3.75
+Level 0: 1 nodes - 1
+Level 1: 2 nodes - 31	38
+Level 2: 7 nodes - 14	26	30	33	37	39	41
+Level 3: 9 nodes - 11	13	21	24	25	29	32	34	40
+Level 4: 7 nodes - 7	10	12	17	23	27	36
+Level 5: 11 nodes - 2	4	6	8	9	15	16	20	22	28	35
+Level 6: 4 nodes - 3	5	18	19
+Max nodes: Level 5 - 11 nodes
+Max depth: 6
+2014_GuoDali_WangYanan_CN_02_stanza_nopunct.txt	9	很明显这种储蓄非在他开始从事这项职业很久以前完成不可	45	17	2.6470588235294117	2.8125
+Level 0: 1 nodes - 6
+Level 1: 3 nodes - 2	5	9
+Level 2: 5 nodes - 1	4	7	8	10
+Level 3: 3 nodes - 3	16	14
+Level 4: 3 nodes - 17	13	15
+Level 5: 1 nodes - 12
+Level 6: 1 nodes - 11
+Max nodes: Level 2 - 5 nodes
+Max depth: 6
+2014_GuoDali_WangYanan_CN_02_stanza_nopunct.txt	10	按照事物的本性资财的蓄积必须在分工以前	17	11	1.5454545454545454	1.7
+Level 0: 1 nodes - 10
+Level 1: 5 nodes - 4	7	8	9	11
+Level 2: 3 nodes - 1	2	5
+Level 3: 2 nodes - 3	6
+Max nodes: Level 1 - 5 nodes
+Max depth: 3
+2014_GuoDali_WangYanan_CN_02_stanza_nopunct.txt	11	预蓄的资财愈丰裕分工就能按比例地愈细密而分工越细密同一数量工人所能加工的材料就能按更大的比例增加	86	33	2.606060606060606	2.6875
+Level 0: 1 nodes - 5
+Level 1: 5 nodes - 3	4	13	15	33
+Level 2: 12 nodes - 1	6	7	8	10	12	14	17	26	27	28	32
+Level 3: 7 nodes - 2	9	11	16	24	29	30
+Level 4: 5 nodes - 21	22	23	25	31
+Level 5: 2 nodes - 19	20
+Level 6: 1 nodes - 18
+Max nodes: Level 2 - 12 nodes
+Max depth: 6
+2014_GuoDali_WangYanan_CN_02_stanza_nopunct.txt	12	每个工人所担任的操作既渐趋简单便有各种新机械发明使操作更为简便迅速	53	20	2.65	2.789473684210526
+Level 0: 1 nodes - 11
+Level 1: 3 nodes - 8	10	16
+Level 2: 5 nodes - 6	7	9	15	20
+Level 3: 5 nodes - 4	12	13	14	19
+Level 4: 5 nodes - 2	3	5	17	18
+Level 5: 1 nodes - 1
+Max nodes: Level 2 - 5 nodes
+Max depth: 5
+2014_GuoDali_WangYanan_CN_02_stanza_nopunct.txt	13	所以当分工进步了的时候雇用工人数目不变所必须预先储有的食物供应要和在分工没有这样进步时相同而必须预先储蓄的材料和工具却要比在分工没有这样进步时所需要的来得多	120	49	2.4489795918367347	2.5
+Level 0: 1 nodes - 27
+Level 1: 8 nodes - 1	7	8	18	19	23	33	49
+Level 2: 16 nodes - 2	4	11	15	17	20	22	25	26	31	35	28	36	37	46	48
+Level 3: 17 nodes - 3	5	6	10	12	13	14	16	21	24	29	30	32	34	41	45	47
+Level 4: 6 nodes - 9	38	39	40	43	44
+Level 5: 1 nodes - 42
+Max nodes: Level 3 - 17 nodes
+Max depth: 5
+2014_GuoDali_WangYanan_CN_02_stanza_nopunct.txt	14	况且一种行业分工越是细密它的工人人数往往越是增加更确切地说使他们分工能够越来越细密的就是他们人数的增加	90	31	2.903225806451613	3.0
+Level 0: 1 nodes - 8
+Level 1: 5 nodes - 1	5	6	7	15
+Level 2: 6 nodes - 3	4	12	13	14	20
+Level 3: 7 nodes - 2	9	11	19	25	26	31
+Level 4: 8 nodes - 10	17	21	22	23	24	27	29
+Level 5: 4 nodes - 16	18	28	30
+Max nodes: Level 4 - 8 nodes
+Max depth: 5
+2014_GuoDali_WangYanan_CN_02_stanza_nopunct.txt	15	要这样大大改进劳动生产力预蓄资财是绝对必要的	21	13	1.6153846153846154	1.75
+Level 0: 1 nodes - 12
+Level 1: 5 nodes - 4	9	10	11	13
+Level 2: 5 nodes - 1	2	3	7	8
+Level 3: 2 nodes - 5	6
+Max nodes: Level 1 - 5 nodes
+Max depth: 3
+2014_GuoDali_WangYanan_CN_02_stanza_nopunct.txt	16	而这种蓄积亦自然会导致这种改进	16	11	1.4545454545454546	1.6
+Level 0: 1 nodes - 8
+Level 1: 6 nodes - 1	4	5	6	7	11
+Level 2: 2 nodes - 3	10
+Level 3: 2 nodes - 2	9
+Max nodes: Level 1 - 6 nodes
+Max depth: 3
+2014_GuoDali_WangYanan_CN_02_stanza_nopunct.txt	17	投资雇用劳动的人自然希望投资方法能够尽量产出最大量的产品	37	16	2.3125	2.466666666666667
+Level 0: 1 nodes - 7
+Level 1: 3 nodes - 5	6	12
+Level 2: 5 nodes - 1	9	10	11	16
+Level 3: 4 nodes - 2	4	8	14
+Level 4: 3 nodes - 3	13	15
+Max nodes: Level 2 - 5 nodes
+Max depth: 4
+2014_GuoDali_WangYanan_CN_02_stanza_nopunct.txt	18	所以对工人职务的分配必努力期其适当在能够发明或购买的限度内他所备置的机械必努力期其精良	85	29	2.9310344827586206	3.0357142857142856
+Level 0: 1 nodes - 9
+Level 1: 6 nodes - 1	6	7	8	11	27
+Level 2: 6 nodes - 2	4	5	10	26	29
+Level 3: 5 nodes - 3	24	18	25	28
+Level 4: 4 nodes - 22	12	14	19
+Level 5: 6 nodes - 20	21	23	13	16	17
+Level 6: 1 nodes - 15
+Max nodes: Level 1 - 6 nodes
+Max depth: 6
+2014_GuoDali_WangYanan_CN_02_stanza_nopunct.txt	19	但在这两方面他的能力怎样往往要看他能有多少资财看他能雇多少工人	43	22	1.9545454545454546	2.0476190476190474
+Level 0: 1 nodes - 12
+Level 1: 7 nodes - 1	5	9	10	11	15	18
+Level 2: 8 nodes - 2	3	4	8	13	14	17	20
+Level 3: 4 nodes - 6	16	19	22
+Level 4: 2 nodes - 7	21
+Max nodes: Level 2 - 8 nodes
+Max depth: 4
+2014_GuoDali_WangYanan_CN_02_stanza_nopunct.txt	20	所以在每一国家里不仅产业的数量随着举办产业的资财的增加而增加而且由于资财增加的结果同量产业所能生产的产品亦会大增	100	36	2.7777777777777777	2.857142857142857
+Level 0: 1 nodes - 36
+Level 1: 6 nodes - 20	21	26	33	34	35
+Level 2: 8 nodes - 1	6	10	11	19	22	24	31
+Level 3: 12 nodes - 2	5	8	7	12	18	23	25	28	29	30	32
+Level 4: 5 nodes - 3	4	9	16	27
+Level 5: 2 nodes - 14	17
+Level 6: 2 nodes - 13	15
+Max nodes: Level 3 - 12 nodes
+Max depth: 6
